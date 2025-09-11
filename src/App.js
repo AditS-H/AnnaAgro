@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Features from './components/Features';
 import HowItWorks from './components/Howitworks'; 
 import CallToAction from './components/CallToAction';
+import Impact from './components/Impact';
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(false);
@@ -52,6 +53,8 @@ function App() {
         <Hero language={language} isDarkMode={isDarkMode} />
         <Features language={language} isDarkMode={isDarkMode} />
         <HowItWorks language={language} isDarkMode={isDarkMode} />
+         <Impact language={language} isDarkMode={isDarkMode} />
+        <CallToAction language={language} isDarkMode={isDarkMode} />
       </main>
 
       {/* Footer */}
