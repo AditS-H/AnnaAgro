@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# Digital Krishi Officer (ഡിജിറ്റൽ കൃഷി ഓഫീസർ)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Digital Krishi Officer](public/logo192.png)
 
-## Available Scripts
+A Smart India Hackathon 2025 project that revolutionizes agricultural advisory services through AI-powered multilingual support.
 
-In the project directory, you can run:
+## 🌟 Features
 
-### `npm start`
+- **Multilingual Support**: Seamlessly switch between English and Malayalam (ഇംഗ്ലീഷ്, മലയാളം)
+- **AI-Powered Assistance**: Get intelligent agricultural advice powered by advanced AI
+- **Dark Mode**: Enhanced user experience with light/dark theme support
+- **Responsive Design**: Works perfectly on all devices - mobile, tablet, and desktop
+- **Real-time Interaction**: Voice and camera input support for instant assistance
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Visit our live application: [Digital Krishi Officer](https://digital-krishi-officer.vercel.app)
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend**: React.js with Hooks
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **State Management**: React Context API
+- **Performance**: Optimized with lazy loading and code splitting
+- **Development**: Create React App
 
-### `npm run build`
+## 📦 Installation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AditS-H/AnnaAgro.git
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies:
+   ```bash
+   cd annaagro
+   npm install
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Start the development server:
+   ```bash
+   npm start
+   ```
 
-### `npm run eject`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🔧 Available Scripts
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `npm start` - Runs the development server
+- `npm test` - Launches the test runner
+- `npm run build` - Builds the app for production
+- `npm run eject` - Ejects from Create React App
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🌿 Project Structure
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+src/
+├── components/
+│   ├── Hero.jsx            # Landing page hero section
+│   ├── Features.jsx        # Project features showcase
+│   ├── HowItWorks.jsx      # Usage instructions
+│   └── CallToAction.jsx    # User engagement section
+├── App.js                  # Main application component
+└── index.js               # Application entry point
+```
 
-## Learn More
+## 🤝 Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📄 License
 
-### Code Splitting
+This project is built for Smart India Hackathon 2025. All rights reserved.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 👥 Team
 
-### Analyzing the Bundle Size
+- Built with ❤️ by SIH Team 2025
+- Location: Kerala, India
+- Contact: [Your Contact Information]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🙏 Acknowledgments
 
-### Making a Progressive Web App
+- Smart India Hackathon organizing team
+- All the farmers who provided valuable feedback
+- Open source community for various tools and libraries
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+Built for Smart India Hackathon 2025 | © 2025 Digital Krishi Officer
+</div>
