@@ -23,7 +23,7 @@ function App() {
               <span className="text-white font-bold">🌱</span>
             </div>
             <span className="font-bold text-green-800 dark:text-green-200">
-              {language === 'en' ? 'Digital Krishi Officer' : 'ഡിജിറ്റൽ കൃഷി ഓഫീസർ'}
+              {language === 'en' ? 'Anna Agro' : 'ഡിജിറ്റൽ കൃഷി ഓഫീസർ'}
             </span>
           </div>
           

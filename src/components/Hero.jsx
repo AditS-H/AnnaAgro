@@ -16,7 +16,7 @@ const Hero = ({ language, isDarkMode }) => {
       learnMore: "Learn More",
       placeholder: "Ask your farming question here...",
       sampleQuery: "Why are my coconut leaves drying?",
-      sampleResponse: "Based on your location in Kerala and current season, coconut leaf drying could be due to: 1) Drought stress - increase watering frequency. 2) Nutrient deficiency - apply potash fertilizer. 3) Root rot - check drainage. Apply Mancozeb 2g/L as preventive spray."
+      sampleResponse: "For managing banana for bunch emergence, it's important to focus on proper nutrient management. You can apply potash at the rate of 100 grams per plant. Alternatively, you can spray sulphate of potash at a concentration of 15 grams per liter of water. This will help in promoting healthy bunch emergence. Make sure to follow these practices consistently for the best results. If you have any more questions or need further assistance, feel free to ask!"
     },
     ml: {
       title: "നിങ്ങളുടെ ഡിജിറ്റൽ കൃഷി ഓഫീസർ",
