@@ -80,8 +80,7 @@ This project is built for Smart India Hackathon 2025. All rights reserved.
 ## 👥 Team
 
 - Built with ❤️ by SIH Team 2025
-- Location: Kerala, India
-- Contact: [Your Contact Information]
+- Location: Ncr-Delhi, India
 
 ## 🙏 Acknowledgments
 
